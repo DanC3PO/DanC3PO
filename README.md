@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DanC3PO
-- 👀 I’m interested in Building, Mechanics, Design, Web Building, Ai Learning and Implimation.
-- 🌱 I’m currently learning Programming and building my own LLM workstation for creating good bots!
+- 👀 I’m interested in Building, Mechanics, Design, Web Building, Robots, CAD, Gaming, Ai Learning and Implimation.
+- 🌱 I’m currently learning Programming and starting to build my own LLM workstation for creating good bots!
 - 💞️ I’m looking to collaborate on anything almost..
-- 📫 How to reach me here.
-- 😄 Pronouns: Maestro
+- 📫 How to reach me is: here.
+- 😄 Pronouns: Mr Niceguy
 - ⚡ Fun fact: island bound cyclist smiling with an electric motor.
 
 <!---
