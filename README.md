@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DanC3PO
 - 👀 I’m interested in Building, Mechanics, Design, Web Building, Ai Learning and Implimation.
-- 🌱 I’m currently learning Programming and building my own LLM for good bots!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Programming and building my own LLM workstation for creating good bots!
+- 💞️ I’m looking to collaborate on anything almost..
+- 📫 How to reach me here.
+- 😄 Pronouns: Maestro
+- ⚡ Fun fact: island bound
 
 <!---
 DanC3PO/DanC3PO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
