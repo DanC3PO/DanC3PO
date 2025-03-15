@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything almost..
 - 📫 How to reach me here.
 - 😄 Pronouns: Maestro
-- ⚡ Fun fact: island bound cyclist cheating with an electric motor.
+- ⚡ Fun fact: island bound cyclist smiling with an electric motor.
 
 <!---
 DanC3PO/DanC3PO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
